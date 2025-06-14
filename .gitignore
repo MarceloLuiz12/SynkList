@@ -1,0 +1,80 @@
+# Android Studio / IntelliJ
+/.idea/
+/.gradle/
+/build/
+/captures/
+/.externalNativeBuild/
+/cmake/
+/local.properties
+/*.iml
+**/build/
+*.workspace.xml
+devicestreaming.xml
+workspace.xml
+
+# Gradle Wrapper
+/gradle/wrapper/gradle-wrapper.properties
+
+# Generated files
+gen/
+generated/
+
+# Kotlin
+*.kotlin_module
+
+# Ignore IDE folders
+.idea/
+*.iml
+
+# Android specific binaries
+*.apk
+*.ap_
+*.aab
+*.dex
+*.class
+
+# Android Archive / Libraries
+*.aar
+*.jar
+
+# Kotlin Annotation Processing
+kapt/
+
+# Jetpack Compose previews and snapshots
+*.snap
+.build/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Crashlytics / Firebase
+crashlytics.properties
+fabric.properties
+
+# DataStore files (if used locally during desenvolvimento)
+datastore/
+
+# Firebase config
+google-services.json
+
+# User-specific files
+*.swp
+*.swo
+*.bak
+
+# IntelliJ specific
+*.iws
+*.ipr
+*.iml
+.idea/
+
+# External Native Build
+.externalNativeBuild/
+.cxx/
+
+# Debug keystore
+debug.keystore
